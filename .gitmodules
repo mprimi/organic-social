@@ -1,0 +1,3 @@
+[submodule "themes/scroll-organic"]
+	path = themes/scroll-organic
+	url = https://github.com/mprimi/hugo-scroll-for-organic-social.git
