@@ -8,34 +8,45 @@ These are the main difference between "industrial" networks (the status quo) and
 
 ---
 
-## 🏭 Industrial Social Media
+## 🏭 Industrial Social Networks
 
-Here's what makes today's social media "industrial":
+All the "famous" networks we all use are of the industrial kind: Facebook, Twitter, Discord, Telegram, etc.
 
- * For profit - your attention, your time and your private data are being sold to the highest bidder
- * Untrusted and opaque - you don't know who has access to your data and how it is stored, used, sold
- * Extractive - the content you create belongs to the platform, not you
- * Mediated - All your interactions with your friends go through an intermediary, who can decide at any time to deny you
+What makes these networks "industrial":
 
-Still, industrial social networks are extremely successful, revealing that people all over the world love this way of connecting and communicating.
+ * Exploitative - the business model is based on harvesting and selling personal data. A service is provided free of charge to incentivize you to you to share your most intimate details
+ * Opaque - you don't know what data is collected, how it is used and processed, who it is sold to and for how much
+ * Extractive - the content you create belongs to the platform
+ * Global - constantly trying to grow, adding members until the entire world is "conquered"
+
+Still, industrial social networks are extremely successful.
+And it's undeniable they provide value to users.
+
+However, giving you a space to connect with your friends is just a means to an end.
+The real driver of these platforms is monetizing your data and your attention.
 
 ---
 
-## 🌱 Organic Social Media
+## 🌱 Organic Social Networks
+
+Organic social networks already constitute a thriving underground reality.
+Because they are not trying to take over the world, you may not have heard about them.
 
 What makes a network "organic":
 
- * Trusted - you personally know and trust the person operating the newtork
- * Small - used by groups of people that know each-other IRL.
- * Federated - smaller network can interconnect to form global-scale networks
- * User funded - in most cases, the cost of running an organic network is under a dollar per user per month
- * Private, secure and transparent - no data leaves the system without user's consent
- * Built on open-source software
+ * Small - used by groups of people that know each-other IRL: families, schools, group of friends, etc.
+ * Trusted - you personally know and trust the person operating the network, and usually most of the people inhabiting it
+ * User supported - the users pay for the infrastructure (usually, a few dollars a year)
+ * Private and secure - no data or metadata is collected, sold or monetized. No data leaves the system without user's consent
+ * Federated - smaller network can interconnect to form larger ones
+ * Transparent - built on open-source software, managed with few simple rules that everyone can understand
 
 ---
 
+Organic networks provide all the benefits of industrial social networks (i.e., giving you a space to connect with your loved ones), without any of the cost (i.e., monetization of your private data and your attention).
+
 Sounds too good to be true? 🙀
 
-It's not! Millions of people have already made the switch.
+It's not! Organic social networks have been a reality for years, and millions of people are using them.
 
-But it's no surprise you don't read about this in your (industrial) social media feed!
+(No surprise, you won't hear about them within (industrial) social media feeds!)
