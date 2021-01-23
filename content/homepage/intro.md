@@ -5,17 +5,14 @@ header_menu: true
 ---
 
 Social networks and Social media have revolutionized the way people connect and interact.
-
 They allow us to stay in touch with loved ones regardless of physical distance.
-Share our passions and interests with people all over the world.
 
-But at what cost?
-Social networks are first and foremost instruments to make money.
+However, large social networks are just Trojan Horses!
 
-We all know the old adage "If you're not paying for it, then YOU are the product!".
-Data is the new oil, and all the modern social media companies are extracting and selling it without much regards for the consequences.
+They enter into our lives as friendly tools to help us connect.
+In reality, they are tools to extract vast amount of personal data ("the new oil").
+They keep us engaged so they can sell our attention to the highest bidder ("the attention economy").
 
-Is this the best we can do? Definitely not!
+Because there's a lot of money at stake, and the competition is fierce, social networks have been pursuing more and more aggressive and subtle strategies to keep people sharing and keep people engaged.
 
-Current-generation social media is just the beginning.
-It's time to evolve past it!
+What if we could keep all the good parts of social networks (convenience, connection) without any of the downsides (exploitation, division)?

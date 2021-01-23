@@ -10,14 +10,13 @@ These are the main difference between "industrial" networks (the status quo) and
 
 ## 🏭 Industrial Social Networks
 
-All the "famous" networks we all use are of the industrial kind: Facebook, Twitter, Discord, Telegram, etc.
+Industrial networks are the "famous" household names: Facebook, Twitter, Instagram, etc.
 
-What makes these networks "industrial":
-
- * Exploitative - the business model is based on harvesting and selling personal data. A service is provided free of charge to incentivize you to you to share your most intimate details
- * Opaque - you don't know what data is collected, how it is used and processed, who it is sold to and for how much
- * Extractive - the content you create belongs to the platform
- * Global - constantly trying to grow, adding members until the entire world is "conquered"
+ * Exploitative: The business model is based on harvesting and selling personal information, and/or your attention.
+ * Opaque: You don't know who has access to your data, source-code is closed, regulated by complex legal frameworks
+ * Extractive: The content you create doesn't belong to you
+ * Addictive: the more engaged you are, the more money they make, this creates an incentive to keep you hooked
+ * Expansive: always trying to conquer more and more users
 
 Still, industrial social networks are extremely successful.
 And it's undeniable they provide value to users.
@@ -29,24 +28,31 @@ The real driver of these platforms is monetizing your data and your attention.
 
 ## 🌱 Organic Social Networks
 
-Organic social networks already constitute a thriving underground reality.
-Because they are not trying to take over the world, you may not have heard about them.
+Organic social networks are a thriving underground ecosystem.
+Because they are not trying to take over the world, most people are not even aware they exist!
 
-What makes a network "organic":
-
- * Small - used by groups of people that know each-other IRL: families, schools, group of friends, etc.
- * Trusted - you personally know and trust the person operating the network, and usually most of the people inhabiting it
- * User supported - the users pay for the infrastructure (usually, a few dollars a year)
- * Private and secure - no data or metadata is collected, sold or monetized. No data leaves the system without user's consent
- * Federated - smaller network can interconnect to form larger ones
- * Transparent - built on open-source software, managed with few simple rules that everyone can understand
+ * Small: Used by groups of friends, families, schools, social clubs, etc.
+ * Trustworthy: You personally know and trust the administrator, and most of the inhabitants
+ * User supported: Users pitch in a few dollars a year to run the network
+ * Private: no data or metadata is collected, sold or monetized. No data leaves the system without user's consent.
+ * Federated: small network interconnect to form larger constellations
+ * Transparent: built on open-source software, managed with few simple rules that everyone can understand
 
 ---
 
-Organic networks provide all the benefits of industrial social networks (i.e., giving you a space to connect with your loved ones), without any of the cost (i.e., monetization of your private data and your attention).
+Organic social networks are just as fun and easy to use as industrial networks.
 
-Sounds too good to be true? 🙀
+Without any of the downsides.
 
-It's not! Organic social networks have been a reality for years, and millions of people are using them.
+Where's the catch?
+ * They cost money ($5-10 a year per user, to keep the server lights on)
+ * You need to personally know someone that would take you on as user
 
-(No surprise, you won't hear about them within (industrial) social media feeds!)
+Paying $10 a year may seem like a good deal you're willing to take.
+
+But finding a trusted friend that runs an organic network may not be so easy.
+
+This is what this website is about!
+
+If you have a friend that likes computers and technology, share this website with them.
+**Anyone** can learn to run a secure organic social network using the guides and information on referenced here.
