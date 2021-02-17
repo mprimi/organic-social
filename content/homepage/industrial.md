@@ -12,6 +12,8 @@ Ever wondered how this is possible?
 
 Here's a simplified view of how "industrial" social networks work:
 
+![Endless growth cycle of industrial social networks](images/industrial-cycle.svg)
+
 "Industrial" social networks are profit-driven ventures.
 The more time users spend using, the more money is generated.
 
