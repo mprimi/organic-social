@@ -14,7 +14,7 @@ title = "Organic Social Networks"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© www.organic-social.net"
+    copyright = "[![CC BY-NC-SA 4.0](/images/CC_BY_NC_SA.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Trusted, private, free, open-source social networks"
